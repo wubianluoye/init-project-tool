@@ -1,4 +1,4 @@
-# vant-m
+# erpapp
 
 ## Project setup
 ```

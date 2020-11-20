@@ -1,5 +1,5 @@
 {
-  "name": "vant-m",
+  "name": "vantapp",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -19,7 +19,6 @@
     "lib-flexible": "^0.3.2",
     "postcss": "^8.1.7",
     "postcss-pxtorem": "^5.1.1",
-    "reset-css": "^5.0.1",
     "vant": "^2.10.14",
     "vconsole": "^3.3.4",
     "vue": "^2.6.11",
